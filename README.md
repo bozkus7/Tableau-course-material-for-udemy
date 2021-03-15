@@ -1,6 +1,9 @@
 # Tableau-course-material-for-udemy
 Tableau 2020 A-Z: Hands-On Tableau Training for Data Science
 
+checkout my Tableau viz to learn more:
+https://public.tableau.com/profile/kushalbhatt#!/
+
 ### About this course
 
 Learn Tableau 2020 for data science step by step. Real-life data analytics exercises & quizzes included. Learn by doing!
